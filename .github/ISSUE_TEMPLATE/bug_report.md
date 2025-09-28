@@ -1,5 +1,5 @@
 ---
-name: "🐞 Bug report"
+name: " Bug report"
 about: Reporting a bug for this project
 title: "[BUG]"
 labels: bug
