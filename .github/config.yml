@@ -1,8 +1,0 @@
-blank_issues_enabled: false
-contact_links:
-  - name: Bug report
-    url: https://github.com/Mangolan/github-practice/issues/new?template=bug_report.md
-    about: Report a bug for this project
-  - name: Feature request
-    url: https://github.com/Mangolan/github-practice/issues/new?template=feature_request.md
-    about: Suggest an idea for this project
